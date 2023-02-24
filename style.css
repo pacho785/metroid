@@ -1,0 +1,22 @@
+.Metroid_prime{
+    justify-content: center;
+    background-color: orange;
+    display: flex;
+}
+.Metroid-prime{
+    width: 40%;
+}
+h1{
+    text-align: center;
+    color: rgb(106, 236, 30);
+    background-color: crimson;
+    font-family: 'Tilt Prism', cursive;
+}
+body{
+    background-color: coral;
+}
+h3{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
